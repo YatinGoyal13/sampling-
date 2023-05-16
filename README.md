@@ -68,9 +68,6 @@ The project requires the following libraries:
 
 Please make sure to install these dependencies before running the code.
 
-## License
-
-This project is licensed under the MIT License. You can find more details in the `LICENSE` file.
 
 ## Acknowledgments
 
